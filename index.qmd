@@ -1,0 +1,9 @@
+---
+title: "385website"
+---
+
+The website example I liked was STA 210 course page, this could be a good supplementary learning resource.
+
+To learn more about the website visit
+<https://sta210-s22.github.io/website/>.
+
